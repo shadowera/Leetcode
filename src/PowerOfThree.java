@@ -1,5 +1,4 @@
 import static java.lang.Math.log;
-import static java.lang.Math.log10;
 
 /**
  * Given an integer, write a function to determine if it is a power of three.

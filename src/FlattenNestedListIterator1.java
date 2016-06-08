@@ -1,6 +1,5 @@
 import java.util.Iterator;
 import java.util.List;
-import java.util.Stack;
 
 /**
  * Created by Shadowera on 2016/4/28.

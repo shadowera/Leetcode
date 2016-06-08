@@ -1,9 +1,3 @@
-import com.sun.org.apache.xerces.internal.impl.xpath.regex.Match;
-import com.sun.org.apache.xpath.internal.SourceTree;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Set;
 /**
  * Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
  * <p>
