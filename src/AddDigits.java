@@ -13,7 +13,7 @@ public class AddDigits {
     public static void main(String[] args) {
         System.out.println(new Solution().addDigits(38));
     }
-
+    
     private static class Solution {
         public int addDigits(int num) {
 
@@ -31,5 +31,4 @@ public class AddDigits {
             int i = num % 9;
             return i == 0 ? 9 : i;
         }
-    }
 }
